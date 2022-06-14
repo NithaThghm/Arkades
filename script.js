@@ -299,6 +299,7 @@ let hidden_msg_front = document.getElementById("hidden-msg-front");
 }
 
 /* ------------ Page Liste Des Jeux ------------------- */
+
 if(pageName === "/ListeDesJeux.html"){
     let Jeux = false
     const Tetris = document.getElementById("Tetris")
